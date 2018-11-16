@@ -1,0 +1,58 @@
+#submenu {
+  margin: 10px 5px 18px 5px;
+}
+
+#submenu li {
+  display: inline;
+  margin: 0 20px 0 0;
+  background: url(li.gif) left 3px no-repeat;
+  padding-left: 10px;
+}
+
+#actnews_form legend {
+  color: gray;
+}
+
+#actnews_form fieldset {
+  padding: 15px;
+  border: 1px solid #cdcdcd;
+}
+
+#actnews_form fieldset #File_Title,
+#actnews_form fieldset #Filename {
+  height: 25px;
+  width: 250px;
+  padding: 6px 0 0 3px;
+  *margin-left: -10px;
+}
+
+.col {
+  *margin-left: -10px;
+}
+
+
+/*預設無樣式*/
+
+ol#nostyle_ol li {
+  list-style-type: decimal;
+  margin: 0 0 0 30px;
+  padding: auto;
+}
+
+ol#nostyle_ol li ul li {
+  list-style-type: circle;
+  margin: 0 0 0 30px;
+  padding: auto;
+}
+
+ul#nostyle_ul li {
+  list-style-type: decimal;
+  margin: 0 0 0 30px;
+  padding: auto;
+}
+
+ul#nostyle_ul li ul li {
+  list-style-type: circle;
+  margin: 0 0 0 30px;
+  padding: auto;
+}

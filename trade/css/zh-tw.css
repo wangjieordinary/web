@@ -1,0 +1,15 @@
+.offstate-en {
+    display: none;
+}
+
+.onstate-en {
+    display: block;
+}
+
+.offstate-ja {
+    display: none;
+}
+
+.onstate-ja {
+    display: block;
+}

@@ -1,0 +1,82 @@
+/*編輯器設定*/
+#editor{
+	font-weight:normal;
+	line-height:normal;
+	letter-spacing:normal;
+}
+#editor h2{
+	font-weight:normal;border-bottom :medium none;
+	background:none;/*沒有默認值*/
+    font-size :normal;
+    width :normal;
+}
+#editor table{
+	line-height:normal;
+	letter-spacing:normal;
+}
+#editor table td{
+	line-height:normal;
+}
+#editor h3{
+	font-weight:normal;border-bottom :medium none;
+	background:none;/*沒有默認值*/
+	color:#000;/*沒有默認值*/
+    font-size :normal;
+    width :normal;
+}
+#editor h4{
+	font-weight:normal;border-bottom :medium none;
+	background:none;/*沒有默認值*/
+	color:#000;/*沒有默認值*/
+    font-size :normal;
+    width :normal;
+}
+#editor p{
+	line-height:normal;letter-spacing:normal;
+}	
+
+#editor #content p{
+	line-height:normal;letter-spacing:normal;
+
+}	
+
+#editor ul {
+
+	list-style : none;/*沒有默認值*/
+	list-style-image  :none ;/*沒有默認值*/
+} 
+#editor  ul li {	
+	list-style  :none ;/*沒有默認值*/
+	list-style-image  :none ;/*沒有默認值*/
+	list-style-type : disc;
+	
+}
+
+#editor ul li li {
+	list-style  : none ;/*沒有默認值*/
+	list-style-image  :none ;/*沒有默認值*/
+	list-style-type : circle;
+}
+
+#editor ul li li ul li {
+	list-style  : none ;/*沒有默認值*/
+	list-style-image  :none ;/*沒有默認值*/
+	list-style-type : square;
+}
+#editor ul li li ul li li{
+	list-style  : none ;/*沒有默認值*/
+	list-style-image  :none ;/*沒有默認值*/
+	list-style-type : decimal;
+}
+#editor ul li li ul li li ul li{
+	list-style  : none ;/*沒有默認值*/
+	list-style-image  :none ;/*沒有默認值*/
+	list-style-type : disc;
+}
+#editor ul li li ul li li ul li li{
+	list-style  : none ;/*沒有默認值*/
+	list-style-image  :none ;/*沒有默認值*/
+	list-style-type : circle;
+}
+#editor h2 a:link ,#editor  h2 a:visited {color:#000;/*沒有默認值*/}
+#editor h2 a:hover ,#editor  h2 a:active {color:#000;/*沒有默認值*/}

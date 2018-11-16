@@ -1,0 +1,19 @@
+.go-back-top {
+    background: rgba(86, 190, 91, .8);
+    text-align: center;
+    padding: 10px 12px;
+    position: fixed;
+    bottom: 45px;
+    right: 15px;
+    cursor: pointer;
+    display: none;
+    color: #fff;
+    font-size: 12px;
+    border-radius: 2px;
+    z-index: 1050;
+    text-transform: uppercase;
+}
+
+.go-back-top:hover {
+    background: rgba(86, 190, 91, 1);
+}

@@ -1,0 +1,94 @@
+/*************** Basic setting and layout *************/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Lucida Grande", "Microsoft YaHei", Verdana, Arial, Sans-Serif;
+    font-size: 100%;
+    background: #fff;
+}
+
+.container1 {
+    width: 90%;
+    margin: auto;
+}
+
+.banner {
+
+}
+
+.site-title-wrap {
+    padding: 16px 0;
+    background: #fff;
+}
+
+.site-title {
+    max-width: 1010px;
+    margin: auto;
+}
+
+.site-title > a {
+    display: inline-block;
+    margin: auto;
+    max-width: 1010px;
+    color: #366200;
+    font-size: 30px;
+    font-family: Helvetica, "微軟正黑體", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.site-title > a:hover {
+    color: #58891d;
+}
+
+.contact-wrap .contact-number {
+    color: #366200;
+}
+.contact-wrap .contact-number:hover {
+    color: #58891d;
+}
+
+
+.contact-txt {
+    background-color: #366200;
+    color: #fff;
+    padding: 6px 12px;
+    padding: 6px 0.75rem;
+    border-radius: 15px;
+    border-radius: 0.9375rem;
+    font-size: 15px;
+    display: inline-block;
+    margin: 15px 0;
+}
+
+.contact-number {
+    font-size: 16px;
+    font-size: 1rem;
+}
+
+.pageheader {
+    max-width: 1010px;
+    margin: auto;
+}
+
+.pageheader img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+/* Temp and shame styleing */
+
+.tool-bar {}
+
+.footer {
+    max-width: 1010px;
+    min-height: 120px;
+    margin: auto;
+    padding: 36px 20px;
+    background: #fff;
+    color: #666a74;
+}
+
+.footer a {
+    color: #366200;
+}

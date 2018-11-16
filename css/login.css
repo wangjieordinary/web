@@ -1,0 +1,179 @@
+.content-body{
+	background-color: #f8f8f8;
+}
+
+.top-menu-container{
+	width: 1100px;
+	margin: auto;
+	background-color: #eeeeee;
+}
+
+.top-menu-c{
+	width: 100%;
+	background-color: #03853E;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+.top-c-m-c{
+	padding-left: 15px;
+}
+
+.top-menu-item{
+	float: left;
+	color: #666666;
+	font-size: 18px;
+	float: left;
+	padding: 22px;
+	cursor: pointer;
+}
+
+.top-menu-item.active{
+	color: #05ba58;
+	border-top: solid 5px #F0A800;
+	background-color: #f8f8f8;
+	padding-top: 17px;
+}
+
+.info-container{
+	width: 1100px;
+	margin: auto;
+	padding-bottom: 56px;
+}
+
+.in-top-menu{
+	font-size: 16px;
+}
+
+.nav-home{
+  color: #05ba58 !important;
+  border-bottom: solid 3px #05ba58;
+  padding-bottom: 12px;
+}
+
+.in-top-menu a{
+	display: inline-block;
+	color: #333333;
+	font-size: 16px;
+}
+
+.in-top-menu a, .in-top-menu span{
+	margin-right: 10px;
+	padding-top: 50px;
+}
+
+.login-container{
+	width: 1100px;
+	margin: auto;
+	padding-bottom: 50px;
+}
+
+.l-left{
+	float: left;
+	width: 515px;
+}
+
+.l-left h2{
+	font-weight: normal;
+	font-size: 28px;
+	color: #666666;
+	margin-top: 36px;
+}
+
+.l-left img{
+	margin-top: 80px;
+	width: 100%;
+}
+
+.l-right{
+	float: right;
+	width: 508px;
+	border: solid 1px #dddddd;
+	margin-top: 134px;
+	background-color: #ffffff;
+	position: relative;
+}
+
+.btn-register{
+	position: absolute;
+    font-size: 18px;
+    color: #ffa921;
+    right: 0px;
+    top: -66px;
+}
+
+.l-nav span{
+	display: inline-block;
+	width: 148px;
+	padding: 20px 53px;
+	font-size: 16px;
+	background-color: #fafafa;
+	text-align: center;
+	color: #666666;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.l-nav span.active{
+	font-size: 18px;
+	font-weight: bold;
+	color: #05ba58;
+	background-color: #ffffff;
+	padding: 18px 53px;
+}
+
+.login-form{
+	padding: 39px 36px;
+	padding-top: 10px;
+}
+
+.img-code, .phone-code{
+	width: 113px;
+}
+
+.btn-get-code{
+	width: 113px;
+	margin-left: 26px;
+}
+
+.btn-get-code.active{
+	background-color: #05ba58;
+}
+
+.btn-login{
+	margin-left: 115px;
+	background-color: #05ba58;
+}
+
+/*.btn-login.active{
+	background-color: #05ba58;
+}*/
+
+.mobile-lc{
+	display: none;
+}
+
+.forget-pwd{
+	float: left;
+	margin-left: 25px;
+	font-size: 18px;
+	color: #999999;
+	margin-top: 11px;
+	cursor: pointer;
+}
+
+.footer-container{
+	margin-top: 0px !important;
+}
+
+.en-form-error{
+	left: 115px;
+}
+
+.right-bar{
+	display: none !important;
+}
+
+.k-button{
+	border-radius: 5px;
+}
